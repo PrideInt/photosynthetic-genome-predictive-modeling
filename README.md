@@ -13,3 +13,26 @@ Potential bioinformatics replication of either one of these papers. Still in res
 > by Ian S. Gilman, Karolina Heyduk, Carlos A. Maya-Lastra, Lillian P. Hancock, and Erika J. Edwards
 
 > https://www.biorxiv.org/content/10.1101/2023.09.11.557216v1
+
+## Potential Useful Databases
+
+### NCBI
+
+NCBI hosts a variety of databases for different biotechnical and bioinformatic uses. 
+
+Including:
+- blastn
+- blastp
+- dbGaP
+
+### PlantGDB
+
+Database of genomic sequences of plant species.
+
+### UniProt
+
+Online accessible database for protein sequences.
+
+### CpGDB
+
+Database for chloroplast genomes.
