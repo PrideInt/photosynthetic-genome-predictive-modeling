@@ -1,6 +1,9 @@
 # photosynthetic-genome-predictive-modeling
 
-Potential bioinformatics replication of either one of these papers. Still in research phase!
+Potential bioinformatics replication of either one of these papers. 
+
+> [!NOTE]
+> Still in research phase!
 
 ## Photosynthetic protein classification using genome neighborhood-based machine learning feature
 
