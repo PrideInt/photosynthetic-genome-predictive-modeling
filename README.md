@@ -7,7 +7,7 @@ Potential bioinformatics replication of either one of these papers.
 
 ## Photosynthetic protein classification using genome neighborhood-based machine learning feature
 
-> by Apiwat Sangphukieo1, Teeraphan Laomettachit1, and Marasri Ruengjitchatchawalya1
+> by Apiwat Sangphukieo, Teeraphan Laomettachit, and Marasri Ruengjitchatchawalya
 
 > https://www.biorxiv.org/content/10.1101/2020.01.09.898809v1
 
