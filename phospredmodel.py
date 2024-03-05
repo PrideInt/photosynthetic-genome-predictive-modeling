@@ -13,6 +13,9 @@
 # visualize the data prior to applying the classification algorithms,
 # whichever is more appropriate, or another algorithm if neither works.
 
+# I may also utilize feature selection. It's pretty good when analyzing
+# genomic data.
+
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 
