@@ -1,6 +1,8 @@
-# photosynthetic-genome-predictive-modeling
+# Photosynthetic Genome Predictive Modeling
 
-Potential bioinformatics replication of either one of these papers. 
+Potential bioinformatics replication of either one of these papers.
+> New: I may not be replicating any papers. May just do whatever I want. This project is for
+> me to learn more about ML and data science.
 
 > [!NOTE]
 > Still in research phase!
